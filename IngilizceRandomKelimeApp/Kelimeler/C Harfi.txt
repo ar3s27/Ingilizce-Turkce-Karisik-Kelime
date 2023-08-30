@@ -1,0 +1,78 @@
+call + aramak
+came + geldi
+can + yapabilmek
+cannot + yapamamak
+can’t + yapamamak
+capital + başken
+captain + yüzbaşı, kaptan
+car + araba
+care + önemsemek
+carefully + dikkatlice
+carry + taşımak
+case + dava, kılıf
+cat + kedi
+catch + yakalamak
+cattle + inek
+caught + yakalamak (geçmiş zaman)
+cause + sebep
+cell + hücre
+center + merkez
+cent + sent, para birimi
+century + yüzyıl
+certain + kesin
+chance + şans
+change + değişmek
+chart + tablo
+check + kontrol etmek
+chief + şef
+child + çocuk
+children + çocuklar
+choose + seçmek
+church + kilise
+circle + çember
+city + şehir
+class + sınıf
+clean + temiz
+clear + temizlemek
+climb + tırmanmak
+close + kapatmak
+cloth + elbise
+cloud + bulut
+coast + kıyı
+cold + soğuk
+color + renk
+column + kolon
+come + gelmek
+common + ortak
+company + şirket
+compare + karşılaştırmak
+complete + tamamlanmış
+compound + madde
+condition + durum
+consider + düşünmek
+consonant + ünsüz harf
+contain + içermek
+continue + devam etmek
+control + kontrol
+cook + pişirmek
+cool + soğuk
+copy + kopyalamak
+corn + mısır
+corner + köşe
+correct + doğru
+cost + masraf
+cotton + pamuk
+could + yapabilmek (geçmiş zaman)
+couldn’t + yapamamak (geçmiş)
+count + saymak
+country + ülke
+course + kurs
+cover + kapsamak
+cow + inek
+create + oluşturmak
+cry + ağlamak
+crop + ekin
+cross + çapraz
+crowd + kalabalık
+current + mevcut
+cut + kesmek

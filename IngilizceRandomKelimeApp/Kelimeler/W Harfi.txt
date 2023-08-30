@@ -1,0 +1,65 @@
+wait + beklemek
+walk + yürümek
+wall + duvar
+want + istemek
+war + savaş
+warm + sıcak
+was + olmak (geçmiş)
+wash + yıkamak
+wasn’t + olmamak (geçmiş)
+watch + izlemek
+water + su
+waves + dalgalar
+way + yol
+we + biz
+wear + giymek
+weather + hava
+week + hafta
+weight + kilo
+well + iyi
+we’ll + biz (gelecek zaman)
+went + gitmek (geçmiş)
+were + olmak (çoğul, geçmiş)
+west + batı
+western + batılı
+what + ne?
+wheel + tekerlek
+when + ne zaman?
+where + nerede?
+whether + eğer
+which + hangisi?
+while + süresince
+white + beyaz
+who + kim?
+whole + bütün
+whose + kimin?
+why + neden?
+wide + geniş
+wife + eş (kadın)
+wild + vahşi
+will + istek
+win + kazanmak
+wind + rüzgar
+window + pencere
+wing + kanat
+winter + kış
+wire + kablo
+wish + dilemek
+with + birlikte
+within + içinde
+without + olmadan
+woman + kadın
+women + kadınlar
+wonder + merak etmek
+won’t + olmamak (gelecek)
+wood + ağaç
+word + kelime
+work + iş
+worker + işçi
+world + dünya
+would + istemek
+wouldn’t + istememek
+write + yazmak
+written + yazılı
+wrong + yanlış
+wrote + yazmak (geçmiş)

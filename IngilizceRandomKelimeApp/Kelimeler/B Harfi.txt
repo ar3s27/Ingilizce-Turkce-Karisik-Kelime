@@ -1,0 +1,64 @@
+baby + bebek
+back + arka
+bad + kötü
+ball + top
+bank + banka
+base + temel
+be + olmak
+bear + ayı
+beat + yenmek
+beautiful + güzel
+became + olmak (geçmiş zaman)
+because + çünkü
+become + olmak
+bed + yatak
+been + olmak (geçmiş zaman, pasif)
+before + önce
+began + başlamak (geçmiş zaman)
+begin + başlamak
+behind + arka
+being + olmak (şimdiki zaman)
+believe + inanmak
+bell + zil
+belong + ait olmak
+below + altında
+beside + yanında
+best + en iyi
+better + daha iyi
+between + arasında
+big + büyük
+bill + fatura
+birds + kuşlar
+bit + küçük parça
+black + siyah
+block + engellemek, bloklamak
+blood + kan
+blow + patlatmak
+blue + mavi
+board + tablo
+boat + bot
+body + vücut
+bone + kemik
+book + kitap
+born + doğmuş
+both + ikisi de
+bottom + dip
+box + kutu
+boy + erkek çocuk
+branch + dal
+break + kırmak
+bright + parlak
+bring + getirmek
+British + Britanyalı
+broken + kırık
+brother + erkek kardeş
+brought + getirilmiş
+brown + kahverengi
+build + bina etmek
+building + bina
+built + bina edilmiş
+burn + yanmak
+business + işletme
+but + fakat
+buy + satın almak
+by + tarafından

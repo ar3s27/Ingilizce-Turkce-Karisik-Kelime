@@ -1,0 +1,45 @@
+dance + dans etmek
+dark + karanlık
+day + gün
+dead + ölü
+deal + anlaşma
+death + ölüm
+decide + karar vermek
+decimal + ondalık
+deep + derin
+describe + açıklamak
+desert + çöl
+design + tasarım
+details + ayrıntılar
+determine + belirlemek
+develope + geliştirmek
+dictionary + sözlük
+did + yaptı
+didn’t + yapmadı
+died + öldü
+difference + fark
+different + farklı
+difficult + zor
+direct + direkt
+direction + yön
+discover + keşfetmek
+distance + mesafe
+divided + bölünmüş
+division + bölüm
+do + yapmak
+doctor + doktor
+does + yapmak
+doesn’t + yapmamak
+dog + köpek
+dollar + dolar
+done + yapmak (geçmiş)
+don’t + yapmamak
+door + kapı
+down + aşağı
+draw + çizmek
+drawing + çizim
+dress + elbise
+drive + araba kullanmak
+drop + düşmek
+dry + kuru
+during + boyunca

@@ -1,0 +1,27 @@
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Formlar.AnaForm.resources
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Properties.Resources.resources
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.csproj.GenerateResource.Cache
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\bin\Debug\IngilizceRandomKelimeApp.exe
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\bin\Debug\IngilizceRandomKelimeApp.pdb
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.exe
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.pdb
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Formlar.OyunaBaslaForm.resources
+E:\Yazılım Ve Diğer Dosyalar\PROJELER\C# Projeler\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.csprojResolveAssemblyReference.cache
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.exe
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.pdb
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\bin\Debug\IngilizceRandomKelimeApp.exe
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\bin\Debug\IngilizceRandomKelimeApp.pdb
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.csprojResolveAssemblyReference.cache
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Formlar.AnaForm.resources
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Formlar.OyunaBaslaForm.resources
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Properties.Resources.resources
+C:\Users\TD\Desktop\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.csproj.GenerateResource.Cache
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.exe
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.pdb
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\bin\Debug\IngilizceRandomKelimeApp.exe
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\bin\Debug\IngilizceRandomKelimeApp.pdb
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.csprojResolveAssemblyReference.cache
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Formlar.AnaForm.resources
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Formlar.OyunaBaslaForm.resources
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.Properties.Resources.resources
+C:\Users\TD\Desktop\Masaüstü Programları\IngilizceRandomKelime\IngilizceRandomKelimeApp\obj\x86\Debug\IngilizceRandomKelimeApp.csproj.GenerateResource.Cache
