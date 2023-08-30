@@ -1,2 +1,2 @@
 # Ingilizce-Turkce-Karisik-Kelime
- İngilizce ve türkçe kelimeleri ekrana verip kullanıcıdan anlamını alan program
+ İngilizce veya türkçe kelimeleri ekrana verip kullanıcıdan diğer dildeki anlamını soran program
